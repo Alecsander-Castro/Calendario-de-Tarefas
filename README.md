@@ -2,7 +2,7 @@
 
 # Resumo do projeto
 
-Aplicativo para cadastro de tarefas. É posssível adicionar, editar e removar tarefas.
+Aplicativo para cadastro de tarefas totalmente responsivo para web e mobile. É posssível adicionar, editar e removar tarefas.
 <br/>
 
 # <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
@@ -18,7 +18,19 @@ Aplicativo para cadastro de tarefas. É posssível adicionar, editar e removar t
 Na pasta client, executar o comando `npm run dev`.
 Ja na pasta server, o comando `npm run server`
 
+
+# <h3 align="left"> 💻 Imagens do projeto: </h3>
 <img
             src="images/tela1.png"
+            alt="tela1"
+          />
+<hr>
+          <img
+            src="images/tela2.png"
+            alt="tela1"
+          />
+<hr>
+<img align ="center"
+            src="images/tela3.png"
             alt="tela1"
           />
