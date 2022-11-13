@@ -1,0 +1,48 @@
+.tasks {
+  margin: 3rem;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0.5rem;
+  color: #000;
+  text-align: center;
+  list-style: none;
+  line-height: 2rem;
+  transition: 1s;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+
+  a {
+    border-radius: 7px;
+    width: 100%;
+    border: none;
+    background-color: #5844e2;
+    padding: 0.45rem;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.7s;
+    margin-right: 0.5rem;
+    &:hover {
+      cursor: pointer;
+      filter: brightness(80%);
+    }
+  }
+
+  button {
+    border-radius: 7px;
+    border: none;
+    background-color: #5844e2;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.7s;
+    &:hover {
+      cursor: pointer;
+      filter: brightness(80%);
+    }
+  }
+}

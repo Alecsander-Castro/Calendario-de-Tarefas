@@ -1,0 +1,38 @@
+nav {
+  display: grid;
+  justify-content: center;
+  background-color: #5844e2;
+  .logo {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+  }
+  p {
+    color: #fff;
+  }
+  img {
+    width: 3rem;
+    height: 3rem;
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  li {
+    list-style: none;
+    padding: 0 1rem;
+    margin: 1rem;
+    a {
+      border-radius: 7px;
+      background-color: #fff;
+      padding: 0.45rem;
+      text-decoration: none;
+      color: #000;
+      transition: 1s;
+      &:hover {
+        background-color: #b4b4b4;
+      }
+    }
+  }
+}
