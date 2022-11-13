@@ -2,7 +2,7 @@
 
 # Resumo do projeto
 
-Aplicativo para cadastro de tarefas totalmente responsivo para web e mobile. É posssível adicionar, editar e removar tarefas.
+Aplicativo para cadastro de tarefas totalmente responsivo para web e mobile. É posssível adicionar, editar e remover tarefas.
 <br/>
 
 # <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
