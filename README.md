@@ -18,12 +18,12 @@ Aplicativo para cadastro de tarefas totalmente responsivo para web e mobile. É 
 Na pasta client, executar o comando `npm run dev`.
 Ja na pasta server, o comando `npm run server`
 
-# <h3 align="left"> 💻 Imagens do projeto: </h3>
+# <h3 align="left"> 🎨 Imagens do projeto: </h3>
 
-<img width ="200px" src="images/tela1.png" alt="tela1"/>
+<img align="center" width ="1020px" src="images/tela1.png" alt="tela1"/>
 
 <hr>
-<img width ="200px" src="images/tela2.png" alt="tela1"/>
+<img align="center" width ="1020px" src="images/tela2.png" alt="tela1"/>
 <hr>
 
-<img width="200px" src="images/tela3.png" alt="tela1"/>
+<img align="center" width="1020px" src="images/tela3.png" alt="tela1"/>
