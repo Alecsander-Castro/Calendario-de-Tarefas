@@ -14,5 +14,5 @@ Aplicativo para cadastro de tarefas. É posssível adicionar, editar e removar t
 - ``MongoDB``
 
 # <h3 align="left"> 💻 Inicialiação do projeto: </h3>
-Na pasta client, executar o comando "npm run dev"
-Na pasta server, executar o comando "npm run server"
+Na pasta client, executar o comando ``npm run dev``.
+Ja na pasta server, o comando ``npm run server``
